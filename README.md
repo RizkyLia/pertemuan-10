@@ -16,7 +16,7 @@
 ## Latihan
 # Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
 Perhatikan Soal Berikut
-![Soal](isi foto/soal latihan.png)
+![Soal](isi%foto/soal%latihan.png)
 
 dan ini hasil dari source code diatas 
 ```python
