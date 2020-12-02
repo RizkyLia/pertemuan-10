@@ -16,7 +16,7 @@
 ## Latihan
 # Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
 Perhatikan Soal Berikut
-![Soal](isi%foto/soal%latihan.png)
+![Soal](isi%20foto/soal%20latihan.png)
 
 dan ini hasil dari source code diatas 
 ```python
@@ -62,7 +62,7 @@ print("   Hasil : lambda s: "".join(set(s)))")
 Disini saya sudah rubah ke lambda Kalau di Tugas Latihan tidak ada outputnya, tp disini saya akan berikan contoh untuk output dari source code tersebut
 Berikut outputnya
 
-![hasil](isi foto/hasil latihan.png)
+![hasil](isi%20foto/hasil%20latihan.png)
  * Dalam Hasil INPUTAN Diatas Ialah hasil dari proses lambda
  
  ## Tugas Praktikum
